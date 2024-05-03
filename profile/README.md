@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/logo.png" alt="Climate Wavers Logo" width="200">
+  <img src="https://github.com/ClimateWavers/.github/assets/133222922/ca370276-de51-43b4-beff-867116393123" alt="Climate Wavers Logo" width="200">
 </p>
 
 # Climate Wavers
