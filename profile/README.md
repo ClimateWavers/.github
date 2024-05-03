@@ -47,6 +47,8 @@ Whether you're a seasoned developer, a passionate activist, or simply someone wh
 - **Discord:** [discord.gg/climatewavers](https://discord.gg/climatewavers)
 - **Twitter:** [@ClimateWavers](https://twitter.com/ClimateWavers)
 - **Email:** contact@climatewaver@gmail.com
+- **WhatsApp Group:** [Join Our WhatsApp Group](https://chat.whatsapp.com/KDa7PMO2vm647CKyzFOy4B)
+- **LinkedIn:** [Connect on LinkedIn](#)
 
 Thank you for joining us on our mission to make a positive impact on the planet!
 
