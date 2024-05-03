@@ -42,7 +42,7 @@ Whether you're a seasoned developer, a passionate activist, or simply someone wh
 
 ## 🌐 Connect with Us
 
-- **Website:** [climatewavers.org](https://climatewavers.com)
+- **Website:** [climatewavers.com](https://climatewavers.com)
 - **GitHub:** [github.com/climatewavers](https://github.com/climatewavers)
 - **Discord:** [discord.gg/climatewavers](https://discord.gg/climatewavers)
 - **Twitter:** [@ClimateWavers](https://twitter.com/ClimateWavers)
