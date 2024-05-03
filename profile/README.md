@@ -51,15 +51,3 @@ Whether you're a seasoned developer, a passionate activist, or simply someone wh
 Thank you for joining us on our mission to make a positive impact on the planet!
 
 Together, we can create a more sustainable and resilient world for future generations.
-
-<script>
-  // JavaScript effects with climate themes
-  const logo = document.querySelector('img');
-  logo.addEventListener('mouseover', function() {
-    this.style.filter = 'brightness(120%)';
-    this.style.transition = 'filter 0.3s ease-in-out';
-  });
-  logo.addEventListener('mouseleave', function() {
-    this.style.filter = 'brightness(100%)';
-  });
-</script>
