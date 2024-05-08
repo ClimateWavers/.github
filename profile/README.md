@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ClimateWavers/.github/assets/133222922/669527d0-5f81-4cd3-a42d-9fb7813a816a" alt="Climate Wavers Logo" width="200">
+  <img src="https://media.licdn.com/dms/image/D4D16AQFVMX6il2uElw/profile-displaybackgroundimage-shrink_350_1400/0/1715161674973?e=1720656000&v=beta&t=4u0AOMjAZKR5uQyev2QWAuIV7E4tiJAXSmxMKSy7bnw" alt="Climate Wavers Logo" width="200"> 
 </p>
 
 # Climate Wavers
