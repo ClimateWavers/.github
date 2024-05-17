@@ -42,13 +42,13 @@ Whether you're a seasoned developer, a passionate activist, or simply someone wh
 
 ## 🌐 Connect with Us
 
-- **Website:** [climatewavers.com](https://climatewavers.com)
-- **GitHub:** [github.com/climatewavers](https://github.com/climatewavers)
-- **Discord:** [discord.gg/climatewavers](https://discord.gg/climatewavers)
-- **Twitter:** [@ClimateWavers](https://twitter.com/ClimateWavers)
+- **Website:** [climatewavers.com](https://climatewavers.github.io/ClimateWavers-Website)
+- **GitHub:** [github.com/climatewavers](https://github.com/ClimateWavers)
+- **Discord:** [discord.gg/climatewavers](https://discord.com/invite/ZG5xM75e)
+- **Twitter:** [@ClimateWavers](https://x.com/CWavers20894?t=HdSwBddYLktQwV6cmfQZKg&s=09)
 - **Email:** contact@climatewaver@gmail.com
 - **WhatsApp Group:** [Join Our WhatsApp Group](https://chat.whatsapp.com/KDa7PMO2vm647CKyzFOy4B)
-- **LinkedIn:** [Connect on LinkedIn](#)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/company/climatewavers)
 
 Thank you for joining us on our mission to make a positive impact on the planet!
 
