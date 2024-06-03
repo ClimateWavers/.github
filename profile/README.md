@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ClimateWavers/.github/assets/133222922/9bebf13f-2746-41f7-acc0-ffef60024745" alt="Climate Wavers Logo" width="200"> 
-</p>
-
 ![image](https://github.com/ClimateWavers/.github/assets/133222922/b95f36e7-b191-4ea8-9535-69acd4cfd14c)
 
 
