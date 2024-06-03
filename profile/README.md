@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/148876859?s=400&u=c5e3f7c5d39fcf57d45118caee96bb900bf01420&v=4" alt="Climate Wavers Logo" width="200"> 
+  <img src="https://github.com/ClimateWavers/.github/assets/133222922/9bebf13f-2746-41f7-acc0-ffef60024745" alt="Climate Wavers Logo" width="200"> 
 </p>
+
 
 # Climate Wavers
 
